@@ -1,3 +1,1 @@
-git clone https://github.com/azrphoenix/moonbix-auto
-
-next
+JUST TRY... ITS WORK FOR ME
